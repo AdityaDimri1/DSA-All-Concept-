@@ -27,6 +27,7 @@ print(numberList)
 # Output: [3, 13, 17, 7]
 
 # Code:
+
 numberList=[12, 67, 98, 34]
 digitSumList=[]
 for num in numberList:
