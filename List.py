@@ -6,7 +6,6 @@
 # Output : [24, 35, 9, 56, 12]
 
 # Code:-
-
 numberList=[]                          # This block of code used in all the programs for taking user input
 numberOfEntry=int(input('Enter the number of entry: ')) # and store it into a list.
 for entery in range(0,numberOfEntry):
