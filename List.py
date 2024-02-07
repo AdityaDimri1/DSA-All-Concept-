@@ -7,17 +7,17 @@
 
 # Code:-
 
-# numberList=[]                          # This block of code used in all the programs for taking user input
-# numberOfEntry=int(input('Enter the number of entry: '))
-# for entery in range(0,numberOfEntry):
-#     userInput=int(input('Enter the number : '))
-#     numberList.append(userInput)
+numberList=[]                          # This block of code used in all the programs for taking user input
+numberOfEntry=int(input('Enter the number of entry: ')) # and store it into a list.
+for entery in range(0,numberOfEntry):
+    userInput=int(input('Enter the number : '))
+    numberList.append(userInput)
 
-# size=len(numberList)
-# temp=numberList[0]
-# numberList[0]=numberList[size-1]
-# numberList[size-1]=temp
-# print(numberList)
+size=len(numberList)
+temp=numberList[0]
+numberList[0]=numberList[size-1]
+numberList[size-1]=temp
+print(numberList)
 
 
 # Problem-2
