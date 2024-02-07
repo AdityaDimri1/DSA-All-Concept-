@@ -1,11 +1,11 @@
 # DSA-All-Concept
-In this repo DSA every concept 2 problems with solution we write .  
+In this repo DSA every concept 2 problems with solution in python we write here.  
 
 In this repo we will work on
 ## Data Structure 
-**List** => 
+**List** => A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements. Using [] we create & represent list.
 
-**Tuples** =>
+**Tuples** => 
 
 **Dictionaries** =>
 
