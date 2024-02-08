@@ -3,30 +3,34 @@ In this repo DSA every concept 2 problems with solution in python we write here.
 
 In this repo we will work on
 ## Data Structure 
-**List** => A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements. Using [] we create & represent list.
+DS is a format for organizing, processing, retrieving & storing data.
 
-**Tuples** => 
+**1 List** => A list is a data structure in Python that is a mutable, or changeable, ordered sequence of heterogenous (multiple type of data) elements. Using [] we create & represent list.
 
-**Dictionaries** =>
+**2 Tuple** => A tuple is a data structure in Python that is a immutable, or unchangeable, ordered sequence of heterogenous (multiple type of data) elements. Using () we create & represent tuple.
 
-**Sets** =>
+**3 Dictionaries** =>
 
-**Stacks** =>
+**4 Sets** =>
 
-**Queues** =>
+**5 Stacks** =>
 
-**Linked-List** =>
+**6 Queues** =>
 
-**Trees** =>
+**7 Linked-List** =>
+
+**8 Trees** =>
+
 
 ## Algorithms 
-### Sorting Algo. =>
 
-**Bubble Sort** -
+### 1 Sorting Algo. =>
 
-**Merge Sort** -
+**1.1 Bubble Sort** =>
 
-**Quick Sort** -
+**1.2 Merge Sort** =>
 
-**Insertion Sort** -
+**1.3 Quick Sort** =>
+
+**1.4 Insertion Sort** =>
 
