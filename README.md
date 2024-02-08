@@ -5,21 +5,26 @@ In this repo we will work on
 ## Data Structure 
 DS is a format for organizing, processing, retrieving & storing data.
 
-**1 List** => A list is a data structure in Python that is a mutable, or changeable, ordered sequence of heterogenous (multiple type of data) elements. Using [] we create & represent list.
+**1 List** => A list is a data structure in Python that is a mutable, or changeable, ordered sequence of   heterogenous (multiple type of data) elements. 
+Using [] we create & represent list.
 
-**2 Tuple** => A tuple is a data structure in Python that is a immutable, or unchangeable, ordered sequence of heterogenous (multiple type of data) elements. Using () we create & represent tuple.
+**2 Tuple** => A tuple is a data structure in Python that is a immutable, or unchangeable, ordered sequence of heterogenous (multiple type of data) elements. 
+Using () we create & represent tuple.
 
-**3 Dictionaries** =>
+**3 Dictionaries** => Dictionaries are used to store data values in key:value pairs.
+Dictionary is a collection which is ordered, changeable and do not allow duplicates.
+Using {} and have keys and values pair in dictionaries.
 
-**4 Sets** =>
+**4 Sets** => A set is a collection which is unordered, unchangeable, and unindexed.
+Using {} we create & represent Sets.
 
-**5 Stacks** =>
+**5 Stacks** => 
 
-**6 Queues** =>
+**6 Queues** => 
 
-**7 Linked-List** =>
+**7 Linked-List** => 
 
-**8 Trees** =>
+**8 Trees** => 
 
 
 ## Algorithms 
