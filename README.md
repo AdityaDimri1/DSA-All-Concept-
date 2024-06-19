@@ -1,5 +1,5 @@
-# DSA-All-Concept
-In this repo DSA every concept 2 problems with solution in python we write here.  
+# DataStructure-All-Concept
+In this repo Data Structure every concept 2 problems with solution in python we write here.  
 
 In this repo we will work on
 ## Data Structure 
@@ -22,20 +22,8 @@ Using {} we create & represent Sets.
 
 **6 Queues** => The queue is a linear data structure that stores items in a First In First Out (FIFO) manner. With a queue, the least recently added item is removed first. A good example of a queue is any queue of consumers for a resource where the consumer that came first is served first.
 
-**7 Linked-List** => 
+**7 Linked-List** => A linked list is a type of linear data structure similar to arrays. It is a collection of nodes that are linked with each other. A node contains two things first is data and second is a link that connects it with another node.
 
 **8 Trees** => 
 
-
-## Algorithms 
-
-### 1 Sorting Algo. =>
-
-**1.1 Bubble Sort** =>
-
-**1.2 Merge Sort** =>
-
-**1.3 Quick Sort** =>
-
-**1.4 Insertion Sort** =>
 
